@@ -34,3 +34,4 @@ typealias aGoodClosure = (name: String, age: Int) -> ()
 func aGoodFunc(completion handler: aGoodClosure) {}
 
 //aGoodFunc
+

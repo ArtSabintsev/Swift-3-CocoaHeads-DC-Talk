@@ -18,6 +18,7 @@
 		550A84621D29F2790018531B /* 0005-ImportObjcAPIs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0005-ImportObjcAPIs.playground"; sourceTree = "<group>"; };
 		550A84631D29F5B30018531B /* 0069-0088-ModernizedSyntax.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0069-0088-ModernizedSyntax.playground"; sourceTree = "<group>"; };
 		55219EA01D2AECA100816634 /* Implemented-in-Swift-2.2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Implemented-in-Swift-2.2.playground"; sourceTree = "<group>"; };
+		55BA7FF41D2B09040055EE4E /* 0008-Lazy-FlatMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0008-Lazy-FlatMap.playground"; sourceTree = "<group>"; };
 		55F8828D1D2A032D00988DD0 /* Swift3Talk.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Swift3Talk.entitlements; sourceTree = "<group>"; };
 		55FD48661D29C0810022F46F /* Swift3Talk.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift3Talk.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55FD48691D29C0810022F46F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -50,6 +51,7 @@
 		55FD485D1D29C0810022F46F = {
 			isa = PBXGroup;
 			children = (
+				55BA7FF41D2B09040055EE4E /* 0008-Lazy-FlatMap.playground */,
 				55FD487B1D29C09C0022F46F /* APIDesignGuidelines.playground */,
 				550A84621D29F2790018531B /* 0005-ImportObjcAPIs.playground */,
 				550A84631D29F5B30018531B /* 0069-0088-ModernizedSyntax.playground */,
