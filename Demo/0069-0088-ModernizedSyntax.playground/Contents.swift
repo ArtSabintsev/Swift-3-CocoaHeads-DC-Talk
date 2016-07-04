@@ -25,7 +25,6 @@ try newUrl?.appendingPathComponent("posttv")
 
 // New
 let newQueue = DispatchQueue(label: "com.washingtonpost.asyncQueue")
-newQueue.
 newQueue.async {
     // Do Stuff
 }
