@@ -11,8 +11,6 @@ let badTuple = aBadPersonTuple("Arthur", 30)
 badTuple.0
 badTuple.1
 
-Int(bitPattern: <#T##OpaquePointer?#>)
-
 // Prefered
 typealias aGoodPersonTuple = (name: String, age: Int)
 
