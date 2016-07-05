@@ -11,4 +11,10 @@ import Foundation
  computation.
 
  */
+
 (1...10).lazy.flatMap { n in n % 2 == 0 ? n/2 : nil }
+
+/** 
+ ^-- Returns a LazyMapBidirectionalCollection<...>
+ More info here:https://developer.apple.com/reference/swift/lazymapbidirectionalcollection
+ */

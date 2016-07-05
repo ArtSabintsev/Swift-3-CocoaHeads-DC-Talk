@@ -51,11 +51,11 @@
 		55FD485D1D29C0810022F46F = {
 			isa = PBXGroup;
 			children = (
-				55BA7FF41D2B09040055EE4E /* 0008-Lazy-FlatMap.playground */,
 				55FD487B1D29C09C0022F46F /* APIDesignGuidelines.playground */,
 				550A84621D29F2790018531B /* 0005-ImportObjcAPIs.playground */,
 				550A84631D29F5B30018531B /* 0069-0088-ModernizedSyntax.playground */,
 				55219EA01D2AECA100816634 /* Implemented-in-Swift-2.2.playground */,
+				55BA7FF41D2B09040055EE4E /* 0008-Lazy-FlatMap.playground */,
 				55FD48681D29C0810022F46F /* Swift3Talk */,
 				55FD48671D29C0810022F46F /* Products */,
 				55F8828E1D2A032D00988DD0 /* Frameworks */,
