@@ -10,16 +10,18 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+}
+
+// MARK: SE-0047
+
+private extension ViewController {
+
+    /**
+     Defaulting non-Void functions so they warn on unused results
+     */
+    func demo47() {
+        1 + 2 // Throws warning as result is unused
+        _ = 1 + 2 // Discards unused warning and silences warning
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
 }
 
