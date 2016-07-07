@@ -12,4 +12,4 @@ let objcString: NSString = "Long Live Objective-C"
 //let trimmedString = objcString.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceAndNewlineCharacterSet())
 
 // Prefered
-let sanitizedString = objcString.trimmingCharacters(in: NSCharacterSet.whitespacesAndNewlines())
+let sanitizedString = objcString.trimmingCharacters(in: NSCharacterSet.whitespacesAndNewlines)
