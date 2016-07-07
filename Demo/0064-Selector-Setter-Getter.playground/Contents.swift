@@ -1,5 +1,11 @@
 import Foundation
 
+/**
+ SE-0064
+
+ Referencing the Objective-C selector of property getters and setters
+ */
+
 @objc class ObjectiveCPerson: NSObject {
 
     dynamic var name: String

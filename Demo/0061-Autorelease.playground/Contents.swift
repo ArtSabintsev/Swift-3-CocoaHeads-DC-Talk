@@ -41,3 +41,8 @@ func t() throws {
 }
 
 contrivedFunction()
+
+@objc protocol P {
+    @objc optional func a()
+    func b()
+}
