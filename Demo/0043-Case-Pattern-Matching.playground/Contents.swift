@@ -1,5 +1,11 @@
 import UIKit
 
+/**
+ SE-0043
+
+ Declare variables in 'case' labels with multiple patterns
+ */
+
 enum MyEnum {
     case Case1(Int,Float)
     case Case2(Float,Int)

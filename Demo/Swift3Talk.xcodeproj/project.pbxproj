@@ -32,6 +32,7 @@
 		8EF92DED1D2DF744005D16AA /* 0039-Playground-Literals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0039-Playground-Literals.playground"; sourceTree = "<group>"; };
 		8EF92DEE1D2DFA37005D16AA /* 0043-Case-Pattern-Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0043-Case-Pattern-Matching.playground"; sourceTree = "<group>"; };
 		8EF92DEF1D2DFBA9005D16AA /* 0046-Standardized-Labels.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0046-Standardized-Labels.playground"; sourceTree = "<group>"; };
+		8EF92DF01D2E1120005D16AA /* 0061-Autorelease.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0061-Autorelease.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 				8EF92DED1D2DF744005D16AA /* 0039-Playground-Literals.playground */,
 				8EF92DEE1D2DFA37005D16AA /* 0043-Case-Pattern-Matching.playground */,
 				8EF92DEF1D2DFBA9005D16AA /* 0046-Standardized-Labels.playground */,
+				8EF92DF01D2E1120005D16AA /* 0061-Autorelease.playground */,
 				55FD48681D29C0810022F46F /* Swift3Talk */,
 				55FD48671D29C0810022F46F /* Products */,
 				55F8828E1D2A032D00988DD0 /* Frameworks */,
