@@ -29,6 +29,7 @@
 		55FD48751D29C0810022F46F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		55FD487B1D29C09C0022F46F /* APIDesignGuidelines.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = APIDesignGuidelines.playground; sourceTree = "<group>"; };
 		8E1C41871D2B7371004ACA02 /* 0028-Debugging-Identifiers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0028-Debugging-Identifiers.playground"; sourceTree = "<group>"; };
+		8EE51D951D2E185E00E0F7CD /* 0064-Selector-Setter-Getter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0064-Selector-Setter-Getter.playground"; sourceTree = "<group>"; };
 		8EF92DED1D2DF744005D16AA /* 0039-Playground-Literals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0039-Playground-Literals.playground"; sourceTree = "<group>"; };
 		8EF92DEE1D2DFA37005D16AA /* 0043-Case-Pattern-Matching.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0043-Case-Pattern-Matching.playground"; sourceTree = "<group>"; };
 		8EF92DEF1D2DFBA9005D16AA /* 0046-Standardized-Labels.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0046-Standardized-Labels.playground"; sourceTree = "<group>"; };
@@ -66,6 +67,7 @@
 				8EF92DEE1D2DFA37005D16AA /* 0043-Case-Pattern-Matching.playground */,
 				8EF92DEF1D2DFBA9005D16AA /* 0046-Standardized-Labels.playground */,
 				8EF92DF01D2E1120005D16AA /* 0061-Autorelease.playground */,
+				8EE51D951D2E185E00E0F7CD /* 0064-Selector-Setter-Getter.playground */,
 				55FD48681D29C0810022F46F /* Swift3Talk */,
 				55FD48671D29C0810022F46F /* Products */,
 				55F8828E1D2A032D00988DD0 /* Frameworks */,
