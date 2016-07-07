@@ -29,6 +29,7 @@
 		55FD48751D29C0810022F46F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		55FD487B1D29C09C0022F46F /* APIDesignGuidelines.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = APIDesignGuidelines.playground; sourceTree = "<group>"; };
 		8E1C41871D2B7371004ACA02 /* 0028-Debugging-Identifiers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0028-Debugging-Identifiers.playground"; sourceTree = "<group>"; };
+		8EF92DED1D2DF744005D16AA /* 0039-Playground-Literals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "0039-Playground-Literals.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				55219EA01D2AECA100816634 /* Implemented-in-Swift-2.2.playground */,
 				55BA7FF41D2B09040055EE4E /* 0008-Lazy-FlatMap.playground */,
 				8E1C41871D2B7371004ACA02 /* 0028-Debugging-Identifiers.playground */,
+				8EF92DED1D2DF744005D16AA /* 0039-Playground-Literals.playground */,
 				55FD48681D29C0810022F46F /* Swift3Talk */,
 				55FD48671D29C0810022F46F /* Products */,
 				55F8828E1D2A032D00988DD0 /* Frameworks */,
