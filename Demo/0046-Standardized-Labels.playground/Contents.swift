@@ -17,5 +17,3 @@ func a(p: @autoclosure () -> ()) {
 func b(p: @noescape () -> ()) {
 
 }
-
-
