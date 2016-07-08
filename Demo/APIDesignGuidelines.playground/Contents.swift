@@ -26,12 +26,16 @@ typealias aBadClosure = (String, Int) -> ()
 
 func aBadFunc(completion handler: aBadClosure) {}
 
-//aBadFunc
+//aBadFunc { (<#String#>, <#Int#>) in
+//    <#code#>
+//}
 
 // Prefered
 typealias aGoodClosure = (name: String, age: Int) -> ()
 
 func aGoodFunc(completion handler: aGoodClosure) {}
 
-//aGoodFunc
+aGoodFunc { (name, age) in
+    
+}
 

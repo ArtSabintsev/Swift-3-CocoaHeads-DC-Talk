@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+
 }
 
 // MARK: SE-0047
@@ -23,5 +24,6 @@ private extension ViewController {
         1 + 2 // Throws warning as result is unused
         _ = 1 + 2 // Discards unused warning and silences warning
     }
+
 }
 

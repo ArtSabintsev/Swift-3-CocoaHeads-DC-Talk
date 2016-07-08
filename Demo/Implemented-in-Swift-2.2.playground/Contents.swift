@@ -35,6 +35,16 @@ class Car: Vehicle {
 
 }
 
+class Boat: Vehicle {
+
+    typealias Manufacturer = [String]
+
+    func createdBy(manufacturer: Manufacturer) {
+
+    }
+    
+}
+
 
 /**
  SE-0015
@@ -117,7 +127,7 @@ class Class22 {
     private let notificationFired = "Notification Fired"
 
     func setup() {
-        NotificationCenter.default().addObserver(self, selector: #selector(listener), name: notificationFired, object: nil)
+        NotificationCenter.default.addObserver(self, selector: #selector(listener), name: NSNotification.Name(rawValue: notificationFired), object: nil)
     }
 
     @objc func listener(notification: Notification) {
