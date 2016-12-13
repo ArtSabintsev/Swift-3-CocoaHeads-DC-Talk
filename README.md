@@ -3,7 +3,6 @@
 - Alternate name: **Swift 3? Fuck me!**
 - Date: July 7, 2016
 - Location: CocoaHeads DC at The Washington Post
-- Live Stream Link: https://youtu.be/_BN7LIYn9BE
 
 ## What's covered
 
